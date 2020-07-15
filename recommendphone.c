@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<math.h>
 
-//Scan the information in the "fiyat.txt" file, which contains mobile phone brand, 
+//Scan the information in the "price.txt" file, which contains mobile phone brand, 
 //model and price information, and write the program that has the price closest to the average (may be equal) to the "recommend.txt" file in accordance with the sample file below. 
 //Describe the structure called struct cellphone whose members are brand (string), 
-//model (string) and price (double). Transfer the records in the ìprice.txtî file into an array of up to 100 elements of the struct cellphone type
+//model (string) and price (double). Transfer the records in the ‚Äúprice.txt‚Äù file into an array of up to 100 elements of the struct cellphone type
 
 struct cellphone{
 	
